@@ -1,0 +1,19 @@
+* {
+  margin: 2rem;
+}
+
+.app {
+  border: 2px solid black;
+}
+
+nav {
+  border: 2px solid green;
+}
+
+#hero {
+  border: 2px solid crimson;
+}
+
+footer {
+  border: 2px solid yellow;
+}
