@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* * {
+  margin: 1rem;
+}
+
+.app {
+  border: 2px solid black;
+}
+
+nav {
+  border: 2px solid green;
+}
+
+.students {
+  border: 2px solid crimson;
+}
+
+.studentProfile {
+  border: 2px dotted blue;
+} */
